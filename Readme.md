@@ -1,7 +1,7 @@
 # Личный проект «Погнали» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Dmitry Grigoriev](https://up.htmlacademy.ru/adaptive/18/user/1054979).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Аверин](https://up.htmlacademy.ru/adaptive/18/user/1061531).
 
 ---
 
